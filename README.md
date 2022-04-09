@@ -8,9 +8,12 @@ Please update `src/move.ts` to pass tests. You can find the tests in `src/move.s
 - Lint kontrolü yapıldıktan sonra taslak kod üzerinde görsel ve performans arttırma amacıyla düzenlemeler yapıldı.
 - Düzenlemelerden sonra yeni test sonuçları "results" klasörü içerisine kaydedildi.
 
-ps: *.gitignore içerisinde kurulumdan sonra "package-lock.json" eklendi.*
-ps: *Alternatif çözüm için hız olarak 0.2sn daha hızlı olan fakat lint'e takılan, "for-of" içeren kodu "for-of-alternative" branchi aldında bulabilirsiniz.*
+*ps: .gitignore içerisinde kurulumdan sonra "package-lock.json" eklendi.*
+
+*ps: *Alternatif çözüm için hız olarak 0.2sn daha hızlı olan fakat lint'e takılan, "for-of" içeren kodu "for-of-alternative" branchi aldında bulabilirsiniz.*
+
 ---
+
 
 ## Acceptance criteria
 
