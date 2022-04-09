@@ -2,6 +2,16 @@
 
 Please update `src/move.ts` to pass tests. You can find the tests in `src/move.spec.ts`.
 
+---
+- İlk testten sonra kodun çalışır hali taslak olarak kaydedildi.
+- Sonuçlar "results" klasörü içerisinde JSON ve PNG formatında kaydedildi.
+- Lint kontrolü yapıldıktan sonra taslak kod üzerinde görsel ve performans arttırma amacıyla düzenlemeler yapıldı.
+- Düzenlemelerden sonra yeni test sonuçları "results" klasörü içerisine kaydedildi.
+
+ps: *.gitignore içerisinde kurulumdan sonra "package-lock.json" eklendi.*
+ps: *Alternatif çözüm için hız olarak 0.2sn daha hızlı olan fakat lint'e takılan, "for-of" içeren kodu "for-of-alternative" branchi aldında bulabilirsiniz.*
+---
+
 ## Acceptance criteria
 
 Imagine an array that contains folders. These folders can have files in it. `move` function moves a file to another folder and returns the new state of given list.
