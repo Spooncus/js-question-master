@@ -10,7 +10,7 @@ Please update `src/move.ts` to pass tests. You can find the tests in `src/move.s
 
 *ps: .gitignore içerisinde kurulumdan sonra "package-lock.json" eklendi.*
 
-*ps: *Alternatif çözüm için hız olarak 0.2sn daha hızlı olan fakat lint'e takılan, "for-of" içeren kodu "for-of-alternative" branchi aldında bulabilirsiniz.*
+*ps: Alternatif çözüm için hız olarak 0.2sn daha hızlı olan fakat lint'e takılan, "for-of" içeren kodu "for-of-alternative" branchi aldında bulabilirsiniz.*
 
 ---
 
