@@ -26,7 +26,7 @@
         "unmatched": 0,
         "updated": 0
     },
-    "startTime": 1649502030191,
+    "startTime": 1649504399609,
     "success": true,
     "testResults": [
         {
@@ -62,9 +62,9 @@
                     "title": "throws error if given destination is not a folder"
                 }
             ],
-            "endTime": 1649502031562,
+            "endTime": 1649504400116,
             "message": "",
-            "name": "C:\\Users\\xxxxxx\\Desktop\\js-question-master\\src\\move.Done in 1.97s."
+            "name":"C:Done in 1.15s."
         }
     ]
 }
